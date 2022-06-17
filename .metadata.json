@@ -1,0 +1,10 @@
+[
+  {
+    "package": "geostan",
+    "oncran": true
+  },
+  {
+    "package": "surveil",
+    "oncran": true
+  }
+]
