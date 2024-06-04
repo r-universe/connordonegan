@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "geostan"]
+	path = geostan
+	url = https://github.com/connordonegan/geostan
 [submodule "surveil"]
 	path = surveil
 	url = https://github.com/connordonegan/surveil
